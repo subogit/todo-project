@@ -1,0 +1,33 @@
+
+    .button-style {
+        color: rgb(255, 255, 255); font-size: 20px; line-height: 20px; padding: 16px; border-radius: 39px; font-family: Georgia, serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-color:  rgb(234, 83, 41) ; box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; border: 2px solid rgb(255, 255, 255); display: flex;justify-content: center;}
+        .button-style:hover 
+        {
+          background: #f4f4ec; 
+          color: #131e04;
+         }
+        .button-style:active
+         {
+          background: #131e04; 
+         }
+
+
+
+.header-style{
+    color:darkslategrey;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+.nav_{
+    text-align: left;
+}
+.nav-style{
+    color:black;
+    display: flex;
+    justify-content:space-around;
+}
+.li-style{
+    background-color: bisque;
+}
